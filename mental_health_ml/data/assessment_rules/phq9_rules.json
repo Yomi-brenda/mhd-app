@@ -1,0 +1,21 @@
+{
+    "questionnaire_name": "PHQ-9",
+    "severity_categories": {
+        "0-4": "Minimal depression",
+        "5-9": "Mild depression",
+        "10-14": "Moderate depression",
+        "15-19": "Moderately severe depression",
+        "20-27": "Severe depression"
+    },
+    "crisis_question_index": 8,
+    "crisis_question_threshold": 1,
+    "interpretations": {
+        "Minimal depression": "Your responses suggest minimal or no depressive symptoms. Continue to monitor your well-being.",
+        "Mild depression": "Your responses suggest you may be experiencing mild depressive symptoms. Consider exploring self-help resources or discussing these feelings if they persist or worsen.",
+        "Moderate depression": "Your responses suggest you may be experiencing moderate depressive symptoms. It is advisable to discuss these feelings with a healthcare or mental health professional.",
+        "Moderately severe depression": "Your responses suggest moderately severe depressive symptoms. It is strongly recommended to seek consultation with a healthcare or mental health professional.",
+        "Severe depression": "Your responses indicate severe depressive symptoms. Please seek help from a healthcare or mental health professional as soon as possible. If you are in crisis, please use the emergency resources provided.",
+        "Crisis_Flag_PHQ9": "Your response to question 9 about thoughts of self-harm is a serious concern, regardless of your total score. Please reach out for immediate support using the crisis resources provided."
+    },
+    "rule_based_confidence": 1.0
+}

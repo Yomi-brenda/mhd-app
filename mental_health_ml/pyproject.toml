@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+pythonpath = [".."] # Note: 'pythonpath' singular, and it's a list
+# You can also add other pytest options here, e.g.:
+# testpaths = ["tests"]
+# addopts = "-ra -q"

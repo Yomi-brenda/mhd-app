@@ -1,0 +1,5002 @@
+[
+  {
+    "user_id": "user_0001",
+    "timestamp": "2024-09-18T09:58:49.202734",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 5,
+      "q3_sleep": 7,
+      "q4_energy": 5,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 6,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.578,
+      "depression_level": 0.311,
+      "stress_level": 0.489,
+      "wellbeing_score": 0.52,
+      "risk_level": 0.287,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0002",
+    "timestamp": "2024-08-20T09:58:49.202734",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 7,
+      "q3_sleep": 5,
+      "q4_energy": 4,
+      "q5_concentration": 5,
+      "q6_social": 5,
+      "q7_appetite": 5,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.692,
+      "depression_level": 0.577,
+      "stress_level": 0.435,
+      "wellbeing_score": 0.503,
+      "risk_level": 0.547,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0003",
+    "timestamp": "2024-12-31T09:58:49.202734",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 6,
+      "q3_sleep": 6,
+      "q4_energy": 6,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 4,
+      "q10_stress": 5,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.487,
+      "depression_level": 0.451,
+      "stress_level": 0.597,
+      "wellbeing_score": 0.508,
+      "risk_level": 0.385,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0004",
+    "timestamp": "2024-12-06T09:58:49.202734",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 8,
+      "q3_sleep": 5,
+      "q4_energy": 3,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 4,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 6,
+      "q10_stress": 8,
+      "additional_comments": "I don't feel like myself anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.826,
+      "depression_level": 0.671,
+      "stress_level": 0.592,
+      "wellbeing_score": 0.395,
+      "risk_level": 0.455,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0005",
+    "timestamp": "2024-10-26T09:58:49.202734",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 5,
+      "q3_sleep": 6,
+      "q4_energy": 5,
+      "q5_concentration": 7,
+      "q6_social": 5,
+      "q7_appetite": 4,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.651,
+      "depression_level": 0.448,
+      "stress_level": 0.385,
+      "wellbeing_score": 0.551,
+      "risk_level": 0.396,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0006",
+    "timestamp": "2025-02-13T09:58:49.202734",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 5,
+      "q3_sleep": 7,
+      "q4_energy": 6,
+      "q5_concentration": 6,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.578,
+      "depression_level": 0.541,
+      "stress_level": 0.526,
+      "wellbeing_score": 0.626,
+      "risk_level": 0.472,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0007",
+    "timestamp": "2024-08-06T09:58:49.202734",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 6,
+      "q3_sleep": 5,
+      "q4_energy": 2,
+      "q5_concentration": 4,
+      "q6_social": 5,
+      "q7_appetite": 5,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 7,
+      "q10_stress": 7,
+      "additional_comments": "I feel overwhelmed most of the time"
+    },
+    "labels": {
+      "anxiety_level": 0.512,
+      "depression_level": 0.822,
+      "stress_level": 0.655,
+      "wellbeing_score": 0.433,
+      "risk_level": 0.646,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0008",
+    "timestamp": "2025-04-04T09:58:49.202734",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 2,
+      "q3_sleep": 7,
+      "q4_energy": 10,
+      "q5_concentration": 9,
+      "q6_social": 8,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 3,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.329,
+      "depression_level": 0.174,
+      "stress_level": 0.172,
+      "wellbeing_score": 0.88,
+      "risk_level": 0.151,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0009",
+    "timestamp": "2025-02-11T09:58:49.202734",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 2,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.278,
+      "depression_level": 0.181,
+      "stress_level": 0.148,
+      "wellbeing_score": 0.667,
+      "risk_level": 0.15,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0010",
+    "timestamp": "2024-08-24T09:58:49.202734",
+    "responses": {
+      "q1_mood": 1,
+      "q2_anxiety": 9,
+      "q3_sleep": 1,
+      "q4_energy": 3,
+      "q5_concentration": 2,
+      "q6_social": 1,
+      "q7_appetite": 4,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 10,
+      "q10_stress": 9,
+      "additional_comments": "I can't handle this anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.961,
+      "depression_level": 0.762,
+      "stress_level": 0.865,
+      "wellbeing_score": 0.258,
+      "risk_level": 0.826,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0011",
+    "timestamp": "2024-05-23T09:58:49.202734",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 3,
+      "q3_sleep": 8,
+      "q4_energy": 10,
+      "q5_concentration": 9,
+      "q6_social": 10,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 3,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.295,
+      "depression_level": 0.063,
+      "stress_level": 0.251,
+      "wellbeing_score": 0.951,
+      "risk_level": 0.052,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0012",
+    "timestamp": "2025-05-19T09:58:49.202734",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 1,
+      "q3_sleep": 9,
+      "q4_energy": 9,
+      "q5_concentration": 9,
+      "q6_social": 9,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 1,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.022,
+      "depression_level": 0.247,
+      "stress_level": 0.112,
+      "wellbeing_score": 0.794,
+      "risk_level": 0.208,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0013",
+    "timestamp": "2024-10-15T09:58:49.202734",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 2,
+      "q3_sleep": 8,
+      "q4_energy": 9,
+      "q5_concentration": 8,
+      "q6_social": 7,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 3,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.249,
+      "depression_level": 0.157,
+      "stress_level": 0.208,
+      "wellbeing_score": 0.809,
+      "risk_level": 0.141,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0014",
+    "timestamp": "2024-06-28T09:58:49.202734",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 10,
+      "q3_sleep": 2,
+      "q4_energy": 1,
+      "q5_concentration": 2,
+      "q6_social": 1,
+      "q7_appetite": 4,
+      "q8_hopelessness": 9,
+      "q9_worthlessness": 6,
+      "q10_stress": 9,
+      "additional_comments": "Everything feels hopeless"
+    },
+    "labels": {
+      "anxiety_level": 0.926,
+      "depression_level": 0.823,
+      "stress_level": 0.855,
+      "wellbeing_score": 0.241,
+      "risk_level": 0.753,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0015",
+    "timestamp": "2024-09-13T09:58:49.202734",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 6,
+      "q5_concentration": 7,
+      "q6_social": 6,
+      "q7_appetite": 8,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.499,
+      "depression_level": 0.485,
+      "stress_level": 0.343,
+      "wellbeing_score": 0.543,
+      "risk_level": 0.459,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0016",
+    "timestamp": "2024-10-14T09:58:49.202734",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 8,
+      "q3_sleep": 4,
+      "q4_energy": 4,
+      "q5_concentration": 2,
+      "q6_social": 5,
+      "q7_appetite": 4,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 7,
+      "additional_comments": "I feel overwhelmed most of the time"
+    },
+    "labels": {
+      "anxiety_level": 0.635,
+      "depression_level": 0.623,
+      "stress_level": 0.653,
+      "wellbeing_score": 0.329,
+      "risk_level": 0.476,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0017",
+    "timestamp": "2024-12-22T09:58:49.202734",
+    "responses": {
+      "q1_mood": 1,
+      "q2_anxiety": 10,
+      "q3_sleep": 3,
+      "q4_energy": 3,
+      "q5_concentration": 3,
+      "q6_social": 3,
+      "q7_appetite": 2,
+      "q8_hopelessness": 8,
+      "q9_worthlessness": 6,
+      "q10_stress": 9,
+      "additional_comments": "I can barely get through each day"
+    },
+    "labels": {
+      "anxiety_level": 0.853,
+      "depression_level": 0.671,
+      "stress_level": 0.799,
+      "wellbeing_score": 0.211,
+      "risk_level": 0.714,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0018",
+    "timestamp": "2025-02-18T09:58:49.202734",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 7,
+      "q3_sleep": 5,
+      "q4_energy": 2,
+      "q5_concentration": 2,
+      "q6_social": 3,
+      "q7_appetite": 8,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 6,
+      "q10_stress": 8,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.744,
+      "depression_level": 0.562,
+      "stress_level": 0.61,
+      "wellbeing_score": 0.341,
+      "risk_level": 0.486,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0019",
+    "timestamp": "2025-04-30T09:58:49.202734",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 1,
+      "q3_sleep": 9,
+      "q4_energy": 9,
+      "q5_concentration": 7,
+      "q6_social": 9,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.183,
+      "depression_level": 0.118,
+      "stress_level": 0.312,
+      "wellbeing_score": 0.781,
+      "risk_level": 0.124,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0020",
+    "timestamp": "2025-02-13T09:58:49.202734",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 3,
+      "q4_energy": 2,
+      "q5_concentration": 5,
+      "q6_social": 2,
+      "q7_appetite": 3,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.66,
+      "depression_level": 0.74,
+      "stress_level": 0.511,
+      "wellbeing_score": 0.237,
+      "risk_level": 0.592,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0021",
+    "timestamp": "2024-08-30T09:58:49.203545",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 6,
+      "q3_sleep": 4,
+      "q4_energy": 5,
+      "q5_concentration": 6,
+      "q6_social": 4,
+      "q7_appetite": 5,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 3,
+      "q10_stress": 6,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.563,
+      "depression_level": 0.405,
+      "stress_level": 0.558,
+      "wellbeing_score": 0.479,
+      "risk_level": 0.312,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0022",
+    "timestamp": "2024-08-18T09:58:49.203545",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 6,
+      "q3_sleep": 4,
+      "q4_energy": 3,
+      "q5_concentration": 3,
+      "q6_social": 3,
+      "q7_appetite": 4,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 7,
+      "q10_stress": 8,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.777,
+      "depression_level": 0.633,
+      "stress_level": 0.75,
+      "wellbeing_score": 0.303,
+      "risk_level": 0.573,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0023",
+    "timestamp": "2025-02-18T09:58:49.203545",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 6,
+      "q5_concentration": 4,
+      "q6_social": 7,
+      "q7_appetite": 7,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 3,
+      "q10_stress": 6,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.385,
+      "depression_level": 0.485,
+      "stress_level": 0.588,
+      "wellbeing_score": 0.437,
+      "risk_level": 0.322,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0024",
+    "timestamp": "2024-12-09T09:58:49.203545",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 8,
+      "q5_concentration": 10,
+      "q6_social": 9,
+      "q7_appetite": 7,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 3,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.175,
+      "depression_level": 0.184,
+      "stress_level": 0.16,
+      "wellbeing_score": 0.925,
+      "risk_level": 0.14,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0025",
+    "timestamp": "2024-06-20T09:58:49.203545",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 3,
+      "q3_sleep": 9,
+      "q4_energy": 10,
+      "q5_concentration": 8,
+      "q6_social": 8,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 3,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.257,
+      "depression_level": 0.018,
+      "stress_level": 0.253,
+      "wellbeing_score": 0.822,
+      "risk_level": 0.148,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0026",
+    "timestamp": "2024-09-02T09:58:49.203545",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 8,
+      "q3_sleep": 1,
+      "q4_energy": 3,
+      "q5_concentration": 1,
+      "q6_social": 3,
+      "q7_appetite": 5,
+      "q8_hopelessness": 10,
+      "q9_worthlessness": 9,
+      "q10_stress": 9,
+      "additional_comments": "I feel completely overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.733,
+      "depression_level": 0.806,
+      "stress_level": 0.845,
+      "wellbeing_score": 0.187,
+      "risk_level": 0.945,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0027",
+    "timestamp": "2024-12-28T09:58:49.203545",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 6,
+      "q3_sleep": 5,
+      "q4_energy": 5,
+      "q5_concentration": 5,
+      "q6_social": 2,
+      "q7_appetite": 4,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 7,
+      "q10_stress": 7,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.773,
+      "depression_level": 0.508,
+      "stress_level": 0.498,
+      "wellbeing_score": 0.371,
+      "risk_level": 0.666,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0028",
+    "timestamp": "2024-11-18T09:58:49.203545",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 7,
+      "q3_sleep": 3,
+      "q4_energy": 4,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 6,
+      "additional_comments": "I don't feel like myself anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.594,
+      "depression_level": 0.426,
+      "stress_level": 0.536,
+      "wellbeing_score": 0.313,
+      "risk_level": 0.545,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0029",
+    "timestamp": "2024-08-01T09:58:49.203545",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 10,
+      "q5_concentration": 10,
+      "q6_social": 9,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.108,
+      "depression_level": 0.16,
+      "stress_level": 0,
+      "wellbeing_score": 0.992,
+      "risk_level": 0.12,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0030",
+    "timestamp": "2024-07-13T09:58:49.203545",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 8,
+      "q4_energy": 8,
+      "q5_concentration": 10,
+      "q6_social": 10,
+      "q7_appetite": 7,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 2,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.152,
+      "depression_level": 0.263,
+      "stress_level": 0.125,
+      "wellbeing_score": 0.921,
+      "risk_level": 0.102,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0031",
+    "timestamp": "2025-03-05T09:58:49.203545",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 6,
+      "q5_concentration": 6,
+      "q6_social": 4,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 3,
+      "q10_stress": 5,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.461,
+      "depression_level": 0.29,
+      "stress_level": 0.498,
+      "wellbeing_score": 0.649,
+      "risk_level": 0.242,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0032",
+    "timestamp": "2024-09-08T09:58:49.203545",
+    "responses": {
+      "q1_mood": 1,
+      "q2_anxiety": 10,
+      "q3_sleep": 2,
+      "q4_energy": 3,
+      "q5_concentration": 2,
+      "q6_social": 2,
+      "q7_appetite": 4,
+      "q8_hopelessness": 8,
+      "q9_worthlessness": 6,
+      "q10_stress": 10,
+      "additional_comments": "I can barely get through each day"
+    },
+    "labels": {
+      "anxiety_level": 0.835,
+      "depression_level": 0.695,
+      "stress_level": 0.9,
+      "wellbeing_score": 0.109,
+      "risk_level": 0.724,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0033",
+    "timestamp": "2025-02-18T09:58:49.203545",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 5,
+      "q3_sleep": 6,
+      "q4_energy": 4,
+      "q5_concentration": 7,
+      "q6_social": 6,
+      "q7_appetite": 6,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 3,
+      "q10_stress": 7,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.436,
+      "depression_level": 0.391,
+      "stress_level": 0.511,
+      "wellbeing_score": 0.541,
+      "risk_level": 0.417,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0034",
+    "timestamp": "2024-10-04T09:58:49.203545",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 2,
+      "q3_sleep": 8,
+      "q4_energy": 10,
+      "q5_concentration": 9,
+      "q6_social": 10,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 3,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.163,
+      "depression_level": 0.122,
+      "stress_level": 0.288,
+      "wellbeing_score": 0.948,
+      "risk_level": 0.173,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0035",
+    "timestamp": "2024-11-12T09:58:49.203545",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 6,
+      "q5_concentration": 5,
+      "q6_social": 6,
+      "q7_appetite": 6,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 4,
+      "q10_stress": 4,
+      "additional_comments": "I have some ups and downs"
+    },
+    "labels": {
+      "anxiety_level": 0.364,
+      "depression_level": 0.569,
+      "stress_level": 0.338,
+      "wellbeing_score": 0.483,
+      "risk_level": 0.459,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0036",
+    "timestamp": "2024-10-07T09:58:49.203545",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 8,
+      "q4_energy": 10,
+      "q5_concentration": 8,
+      "q6_social": 7,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.219,
+      "depression_level": 0.024,
+      "stress_level": 0.214,
+      "wellbeing_score": 0.848,
+      "risk_level": 0.104,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0037",
+    "timestamp": "2025-04-10T09:58:49.203545",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 1,
+      "q3_sleep": 10,
+      "q4_energy": 8,
+      "q5_concentration": 8,
+      "q6_social": 8,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.236,
+      "depression_level": 0.242,
+      "stress_level": 0.184,
+      "wellbeing_score": 0.913,
+      "risk_level": 0.176,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0038",
+    "timestamp": "2024-09-28T09:58:49.203545",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 2,
+      "q3_sleep": 10,
+      "q4_energy": 10,
+      "q5_concentration": 9,
+      "q6_social": 9,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 1,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.125,
+      "depression_level": 0.13,
+      "stress_level": 0,
+      "wellbeing_score": 0.951,
+      "risk_level": 0.162,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0039",
+    "timestamp": "2024-12-15T09:58:49.203545",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 1,
+      "q3_sleep": 10,
+      "q4_energy": 9,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 2,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.206,
+      "depression_level": 0.097,
+      "stress_level": 0.076,
+      "wellbeing_score": 0.772,
+      "risk_level": 0.118,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0040",
+    "timestamp": "2024-11-25T09:58:49.203545",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 3,
+      "q3_sleep": 5,
+      "q4_energy": 6,
+      "q5_concentration": 5,
+      "q6_social": 7,
+      "q7_appetite": 6,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 5,
+      "q10_stress": 5,
+      "additional_comments": "I have some ups and downs"
+    },
+    "labels": {
+      "anxiety_level": 0.406,
+      "depression_level": 0.476,
+      "stress_level": 0.514,
+      "wellbeing_score": 0.582,
+      "risk_level": 0.416,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0041",
+    "timestamp": "2024-12-23T09:58:49.203545",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 4,
+      "q3_sleep": 4,
+      "q4_energy": 4,
+      "q5_concentration": 6,
+      "q6_social": 5,
+      "q7_appetite": 8,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 2,
+      "q10_stress": 5,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.563,
+      "depression_level": 0.507,
+      "stress_level": 0.537,
+      "wellbeing_score": 0.424,
+      "risk_level": 0.366,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0042",
+    "timestamp": "2025-03-31T09:58:49.203545",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 7,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 2,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.206,
+      "depression_level": 0.222,
+      "stress_level": 0.241,
+      "wellbeing_score": 0.789,
+      "risk_level": 0.174,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0043",
+    "timestamp": "2025-03-28T09:58:49.203545",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 2,
+      "q3_sleep": 10,
+      "q4_energy": 10,
+      "q5_concentration": 7,
+      "q6_social": 9,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.155,
+      "depression_level": 0.099,
+      "stress_level": 0.227,
+      "wellbeing_score": 0.805,
+      "risk_level": 0.164,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0044",
+    "timestamp": "2024-12-18T09:58:49.203545",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 1,
+      "q3_sleep": 10,
+      "q4_energy": 9,
+      "q5_concentration": 10,
+      "q6_social": 7,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.245,
+      "depression_level": 0.076,
+      "stress_level": 0.046,
+      "wellbeing_score": 0.815,
+      "risk_level": 0.188,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0045",
+    "timestamp": "2024-11-27T09:58:49.203545",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 9,
+      "q4_energy": 7,
+      "q5_concentration": 10,
+      "q6_social": 8,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 2,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.189,
+      "depression_level": 0.252,
+      "stress_level": 0.031,
+      "wellbeing_score": 0.918,
+      "risk_level": 0.14,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0046",
+    "timestamp": "2025-04-22T09:58:49.203545",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 6,
+      "q3_sleep": 4,
+      "q4_energy": 7,
+      "q5_concentration": 5,
+      "q6_social": 6,
+      "q7_appetite": 7,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 4,
+      "q10_stress": 6,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.608,
+      "depression_level": 0.502,
+      "stress_level": 0.486,
+      "wellbeing_score": 0.457,
+      "risk_level": 0.407,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0047",
+    "timestamp": "2024-12-31T09:58:49.203545",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 4,
+      "q5_concentration": 5,
+      "q6_social": 6,
+      "q7_appetite": 5,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 3,
+      "q10_stress": 5,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.398,
+      "depression_level": 0.296,
+      "stress_level": 0.404,
+      "wellbeing_score": 0.531,
+      "risk_level": 0.218,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0048",
+    "timestamp": "2024-11-04T09:58:49.203545",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 5,
+      "q7_appetite": 6,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.425,
+      "depression_level": 0.258,
+      "stress_level": 0.334,
+      "wellbeing_score": 0.652,
+      "risk_level": 0.198,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0049",
+    "timestamp": "2025-04-29T09:58:49.203545",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 6,
+      "q3_sleep": 7,
+      "q4_energy": 5,
+      "q5_concentration": 4,
+      "q6_social": 5,
+      "q7_appetite": 6,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 4,
+      "q10_stress": 6,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.661,
+      "depression_level": 0.367,
+      "stress_level": 0.417,
+      "wellbeing_score": 0.61,
+      "risk_level": 0.348,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0050",
+    "timestamp": "2024-06-11T09:58:49.203545",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 8,
+      "q5_concentration": 7,
+      "q6_social": 10,
+      "q7_appetite": 7,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.293,
+      "depression_level": 0.169,
+      "stress_level": 0.322,
+      "wellbeing_score": 0.742,
+      "risk_level": 0.182,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0051",
+    "timestamp": "2024-09-03T09:58:49.203545",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 7,
+      "q3_sleep": 1,
+      "q4_energy": 2,
+      "q5_concentration": 2,
+      "q6_social": 3,
+      "q7_appetite": 5,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 7,
+      "q10_stress": 8,
+      "additional_comments": "I can't handle this anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.665,
+      "depression_level": 0.745,
+      "stress_level": 0.823,
+      "wellbeing_score": 0.284,
+      "risk_level": 0.609,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0052",
+    "timestamp": "2024-09-29T09:58:49.203545",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 1,
+      "q3_sleep": 9,
+      "q4_energy": 10,
+      "q5_concentration": 9,
+      "q6_social": 8,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.14,
+      "depression_level": 0.193,
+      "stress_level": 0.051,
+      "wellbeing_score": 0.848,
+      "risk_level": 0.109,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0053",
+    "timestamp": "2024-09-28T09:58:49.203545",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 3,
+      "q3_sleep": 6,
+      "q4_energy": 4,
+      "q5_concentration": 6,
+      "q6_social": 5,
+      "q7_appetite": 8,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 2,
+      "q10_stress": 7,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.442,
+      "depression_level": 0.457,
+      "stress_level": 0.53,
+      "wellbeing_score": 0.513,
+      "risk_level": 0.297,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0054",
+    "timestamp": "2024-08-27T09:58:49.203545",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 8,
+      "q5_concentration": 8,
+      "q6_social": 9,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.198,
+      "depression_level": 0.044,
+      "stress_level": 0.104,
+      "wellbeing_score": 0.841,
+      "risk_level": 0.117,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0055",
+    "timestamp": "2025-03-17T09:58:49.203545",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 10,
+      "q6_social": 8,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 3,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.277,
+      "depression_level": 0.294,
+      "stress_level": 0.118,
+      "wellbeing_score": 0.776,
+      "risk_level": 0.179,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0056",
+    "timestamp": "2024-06-13T09:58:49.203545",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 2,
+      "q3_sleep": 9,
+      "q4_energy": 10,
+      "q5_concentration": 10,
+      "q6_social": 8,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 1,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.202,
+      "depression_level": 0.183,
+      "stress_level": 0.114,
+      "wellbeing_score": 0.838,
+      "risk_level": 0.103,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0057",
+    "timestamp": "2024-06-02T09:58:49.203545",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 6,
+      "q3_sleep": 7,
+      "q4_energy": 4,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 4,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 3,
+      "q10_stress": 5,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.47,
+      "depression_level": 0.307,
+      "stress_level": 0.411,
+      "wellbeing_score": 0.742,
+      "risk_level": 0.271,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0058",
+    "timestamp": "2024-12-07T09:58:49.203545",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 7,
+      "q3_sleep": 2,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 3,
+      "q7_appetite": 5,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 6,
+      "q10_stress": 7,
+      "additional_comments": "I feel overwhelmed most of the time"
+    },
+    "labels": {
+      "anxiety_level": 0.706,
+      "depression_level": 0.693,
+      "stress_level": 0.718,
+      "wellbeing_score": 0.238,
+      "risk_level": 0.536,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0059",
+    "timestamp": "2024-08-06T09:58:49.203545",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 4,
+      "q3_sleep": 4,
+      "q4_energy": 5,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 6,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 5,
+      "q10_stress": 5,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.416,
+      "depression_level": 0.564,
+      "stress_level": 0.562,
+      "wellbeing_score": 0.388,
+      "risk_level": 0.418,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0060",
+    "timestamp": "2025-04-18T09:58:49.203545",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 3,
+      "q4_energy": 4,
+      "q5_concentration": 2,
+      "q6_social": 5,
+      "q7_appetite": 3,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 5,
+      "q10_stress": 9,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.752,
+      "depression_level": 0.532,
+      "stress_level": 0.791,
+      "wellbeing_score": 0.389,
+      "risk_level": 0.621,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0061",
+    "timestamp": "2025-03-08T09:58:49.203545",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 6,
+      "q3_sleep": 7,
+      "q4_energy": 4,
+      "q5_concentration": 7,
+      "q6_social": 5,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 4,
+      "q10_stress": 5,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.518,
+      "depression_level": 0.444,
+      "stress_level": 0.39,
+      "wellbeing_score": 0.515,
+      "risk_level": 0.349,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0062",
+    "timestamp": "2025-04-09T09:58:49.203545",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 3,
+      "q3_sleep": 4,
+      "q4_energy": 7,
+      "q5_concentration": 6,
+      "q6_social": 5,
+      "q7_appetite": 5,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.581,
+      "depression_level": 0.327,
+      "stress_level": 0.536,
+      "wellbeing_score": 0.637,
+      "risk_level": 0.336,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0063",
+    "timestamp": "2024-07-03T09:58:49.203545",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 5,
+      "q3_sleep": 2,
+      "q4_energy": 3,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 8,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "I feel overwhelmed most of the time"
+    },
+    "labels": {
+      "anxiety_level": 0.628,
+      "depression_level": 0.659,
+      "stress_level": 0.724,
+      "wellbeing_score": 0.411,
+      "risk_level": 0.477,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0064",
+    "timestamp": "2025-02-21T09:58:49.203545",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 9,
+      "q5_concentration": 9,
+      "q6_social": 10,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.141,
+      "depression_level": 0.153,
+      "stress_level": 0.319,
+      "wellbeing_score": 0.864,
+      "risk_level": 0.245,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0065",
+    "timestamp": "2025-03-30T09:58:49.203545",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 5,
+      "q3_sleep": 6,
+      "q4_energy": 4,
+      "q5_concentration": 6,
+      "q6_social": 4,
+      "q7_appetite": 4,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 5,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.479,
+      "depression_level": 0.392,
+      "stress_level": 0.369,
+      "wellbeing_score": 0.595,
+      "risk_level": 0.182,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0066",
+    "timestamp": "2025-02-02T09:58:49.203545",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 6,
+      "q3_sleep": 3,
+      "q4_energy": 3,
+      "q5_concentration": 2,
+      "q6_social": 4,
+      "q7_appetite": 3,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.732,
+      "depression_level": 0.698,
+      "stress_level": 0.826,
+      "wellbeing_score": 0.294,
+      "risk_level": 0.574,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0067",
+    "timestamp": "2025-04-12T09:58:49.203545",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 4,
+      "q5_concentration": 7,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 6,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.491,
+      "depression_level": 0.44,
+      "stress_level": 0.421,
+      "wellbeing_score": 0.62,
+      "risk_level": 0.166,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0068",
+    "timestamp": "2024-07-03T09:58:49.203545",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 7,
+      "q3_sleep": 4,
+      "q4_energy": 2,
+      "q5_concentration": 5,
+      "q6_social": 4,
+      "q7_appetite": 3,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 6,
+      "q10_stress": 6,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.594,
+      "depression_level": 0.596,
+      "stress_level": 0.62,
+      "wellbeing_score": 0.339,
+      "risk_level": 0.519,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0069",
+    "timestamp": "2024-11-21T09:58:49.204584",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 3,
+      "q3_sleep": 5,
+      "q4_energy": 6,
+      "q5_concentration": 5,
+      "q6_social": 7,
+      "q7_appetite": 4,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 4,
+      "q10_stress": 5,
+      "additional_comments": "I have some ups and downs"
+    },
+    "labels": {
+      "anxiety_level": 0.437,
+      "depression_level": 0.415,
+      "stress_level": 0.476,
+      "wellbeing_score": 0.511,
+      "risk_level": 0.302,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0070",
+    "timestamp": "2024-06-08T09:58:49.204584",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 7,
+      "q3_sleep": 2,
+      "q4_energy": 5,
+      "q5_concentration": 2,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 6,
+      "q10_stress": 6,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.539,
+      "depression_level": 0.635,
+      "stress_level": 0.644,
+      "wellbeing_score": 0.443,
+      "risk_level": 0.571,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0071",
+    "timestamp": "2024-06-07T09:58:49.204584",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 7,
+      "q5_concentration": 8,
+      "q6_social": 8,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.364,
+      "depression_level": 0.225,
+      "stress_level": 0.344,
+      "wellbeing_score": 0.772,
+      "risk_level": 0.086,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0072",
+    "timestamp": "2024-09-05T09:58:49.204584",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 10,
+      "q5_concentration": 8,
+      "q6_social": 8,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 2,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.149,
+      "depression_level": 0.221,
+      "stress_level": 0.306,
+      "wellbeing_score": 0.894,
+      "risk_level": 0.159,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0073",
+    "timestamp": "2024-07-18T09:58:49.204584",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 7,
+      "q5_concentration": 6,
+      "q6_social": 6,
+      "q7_appetite": 6,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.425,
+      "depression_level": 0.386,
+      "stress_level": 0.511,
+      "wellbeing_score": 0.556,
+      "risk_level": 0.396,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0074",
+    "timestamp": "2025-01-13T09:58:49.204584",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 8,
+      "q5_concentration": 9,
+      "q6_social": 8,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 3,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.227,
+      "depression_level": 0.086,
+      "stress_level": 0.044,
+      "wellbeing_score": 0.953,
+      "risk_level": 0.249,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0075",
+    "timestamp": "2024-09-29T09:58:49.204584",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 6,
+      "q5_concentration": 6,
+      "q6_social": 4,
+      "q7_appetite": 5,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.54,
+      "depression_level": 0.555,
+      "stress_level": 0.484,
+      "wellbeing_score": 0.63,
+      "risk_level": 0.549,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0076",
+    "timestamp": "2025-01-25T09:58:49.204584",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 2,
+      "q4_energy": 1,
+      "q5_concentration": 2,
+      "q6_social": 2,
+      "q7_appetite": 4,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 8,
+      "q10_stress": 10,
+      "additional_comments": "I feel completely overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.916,
+      "depression_level": 0.772,
+      "stress_level": 0.797,
+      "wellbeing_score": 0.255,
+      "risk_level": 0.674,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0077",
+    "timestamp": "2024-08-13T09:58:49.204584",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 6,
+      "q3_sleep": 5,
+      "q4_energy": 4,
+      "q5_concentration": 2,
+      "q6_social": 2,
+      "q7_appetite": 8,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 8,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.755,
+      "depression_level": 0.69,
+      "stress_level": 0.704,
+      "wellbeing_score": 0.246,
+      "risk_level": 0.516,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0078",
+    "timestamp": "2024-05-24T09:58:49.204584",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 8,
+      "q3_sleep": 4,
+      "q4_energy": 5,
+      "q5_concentration": 4,
+      "q6_social": 3,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 4,
+      "q10_stress": 6,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.698,
+      "depression_level": 0.457,
+      "stress_level": 0.542,
+      "wellbeing_score": 0.492,
+      "risk_level": 0.423,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0079",
+    "timestamp": "2025-04-28T09:58:49.204584",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 8,
+      "q6_social": 10,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 3,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.103,
+      "depression_level": 0.098,
+      "stress_level": 0.289,
+      "wellbeing_score": 0.864,
+      "risk_level": 0.184,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0080",
+    "timestamp": "2025-01-18T09:58:49.204584",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 3,
+      "q4_energy": 5,
+      "q5_concentration": 3,
+      "q6_social": 5,
+      "q7_appetite": 2,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 5,
+      "q10_stress": 9,
+      "additional_comments": "I don't feel like myself anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.721,
+      "depression_level": 0.686,
+      "stress_level": 0.698,
+      "wellbeing_score": 0.395,
+      "risk_level": 0.588,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0081",
+    "timestamp": "2025-01-28T09:58:49.204584",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 6,
+      "q3_sleep": 5,
+      "q4_energy": 4,
+      "q5_concentration": 7,
+      "q6_social": 5,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.683,
+      "depression_level": 0.386,
+      "stress_level": 0.59,
+      "wellbeing_score": 0.509,
+      "risk_level": 0.364,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0082",
+    "timestamp": "2024-10-09T09:58:49.204584",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 3,
+      "q3_sleep": 9,
+      "q4_energy": 8,
+      "q5_concentration": 10,
+      "q6_social": 9,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 3,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.319,
+      "depression_level": 0.055,
+      "stress_level": 0.18,
+      "wellbeing_score": 0.864,
+      "risk_level": 0.171,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0083",
+    "timestamp": "2024-05-30T09:58:49.204584",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 9,
+      "q3_sleep": 3,
+      "q4_energy": 1,
+      "q5_concentration": 3,
+      "q6_social": 1,
+      "q7_appetite": 4,
+      "q8_hopelessness": 8,
+      "q9_worthlessness": 8,
+      "q10_stress": 9,
+      "additional_comments": "I can barely get through each day"
+    },
+    "labels": {
+      "anxiety_level": 0.958,
+      "depression_level": 0.878,
+      "stress_level": 0.681,
+      "wellbeing_score": 0.249,
+      "risk_level": 0.752,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0084",
+    "timestamp": "2024-05-29T09:58:49.204584",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 4,
+      "q4_energy": 5,
+      "q5_concentration": 3,
+      "q6_social": 2,
+      "q7_appetite": 8,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 4,
+      "q10_stress": 6,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.75,
+      "depression_level": 0.44,
+      "stress_level": 0.67,
+      "wellbeing_score": 0.437,
+      "risk_level": 0.447,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0085",
+    "timestamp": "2024-12-06T09:58:49.204584",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 6,
+      "q3_sleep": 4,
+      "q4_energy": 2,
+      "q5_concentration": 5,
+      "q6_social": 2,
+      "q7_appetite": 4,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 7,
+      "q10_stress": 9,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.768,
+      "depression_level": 0.73,
+      "stress_level": 0.735,
+      "wellbeing_score": 0.3,
+      "risk_level": 0.553,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0086",
+    "timestamp": "2024-12-02T09:58:49.204584",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 2,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 5,
+      "q7_appetite": 7,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 6,
+      "q10_stress": 8,
+      "additional_comments": "I don't feel like myself anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.713,
+      "depression_level": 0.737,
+      "stress_level": 0.692,
+      "wellbeing_score": 0.286,
+      "risk_level": 0.564,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0087",
+    "timestamp": "2025-05-23T09:58:49.204584",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 5,
+      "q4_energy": 5,
+      "q5_concentration": 4,
+      "q6_social": 7,
+      "q7_appetite": 4,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 5,
+      "q10_stress": 5,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.319,
+      "depression_level": 0.377,
+      "stress_level": 0.613,
+      "wellbeing_score": 0.559,
+      "risk_level": 0.496,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0088",
+    "timestamp": "2024-10-05T09:58:49.204584",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 7,
+      "q5_concentration": 8,
+      "q6_social": 9,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.204,
+      "depression_level": 0.166,
+      "stress_level": 0.241,
+      "wellbeing_score": 0.856,
+      "risk_level": 0.105,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0089",
+    "timestamp": "2024-09-14T09:58:49.204584",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 1,
+      "q3_sleep": 9,
+      "q4_energy": 10,
+      "q5_concentration": 9,
+      "q6_social": 7,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.166,
+      "depression_level": 0.062,
+      "stress_level": 0.052,
+      "wellbeing_score": 0.891,
+      "risk_level": 0.077,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0090",
+    "timestamp": "2024-09-06T09:58:49.204584",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 1,
+      "q3_sleep": 9,
+      "q4_energy": 9,
+      "q5_concentration": 10,
+      "q6_social": 10,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 3,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.231,
+      "depression_level": 0.05,
+      "stress_level": 0.189,
+      "wellbeing_score": 1,
+      "risk_level": 0.237,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0091",
+    "timestamp": "2024-12-14T09:58:49.204584",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 1,
+      "q3_sleep": 9,
+      "q4_energy": 8,
+      "q5_concentration": 7,
+      "q6_social": 8,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.143,
+      "depression_level": 0.15,
+      "stress_level": 0.319,
+      "wellbeing_score": 0.876,
+      "risk_level": 0.153,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0092",
+    "timestamp": "2025-02-05T09:58:49.204584",
+    "responses": {
+      "q1_mood": 1,
+      "q2_anxiety": 7,
+      "q3_sleep": 3,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 2,
+      "q7_appetite": 6,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 9,
+      "q10_stress": 10,
+      "additional_comments": "I can barely get through each day"
+    },
+    "labels": {
+      "anxiety_level": 0.869,
+      "depression_level": 0.859,
+      "stress_level": 0.866,
+      "wellbeing_score": 0.267,
+      "risk_level": 0.807,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0093",
+    "timestamp": "2025-02-10T09:58:49.204584",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 6,
+      "q3_sleep": 5,
+      "q4_energy": 4,
+      "q5_concentration": 5,
+      "q6_social": 5,
+      "q7_appetite": 4,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 3,
+      "q10_stress": 6,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.539,
+      "depression_level": 0.442,
+      "stress_level": 0.603,
+      "wellbeing_score": 0.476,
+      "risk_level": 0.303,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0094",
+    "timestamp": "2024-07-19T09:58:49.204584",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 9,
+      "q3_sleep": 3,
+      "q4_energy": 3,
+      "q5_concentration": 3,
+      "q6_social": 2,
+      "q7_appetite": 1,
+      "q8_hopelessness": 10,
+      "q9_worthlessness": 10,
+      "q10_stress": 9,
+      "additional_comments": "I can barely get through each day"
+    },
+    "labels": {
+      "anxiety_level": 0.898,
+      "depression_level": 0.804,
+      "stress_level": 0.742,
+      "wellbeing_score": 0.142,
+      "risk_level": 1,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0095",
+    "timestamp": "2025-02-22T09:58:49.204584",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 7,
+      "q3_sleep": 5,
+      "q4_energy": 5,
+      "q5_concentration": 5,
+      "q6_social": 5,
+      "q7_appetite": 6,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 4,
+      "q10_stress": 9,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.795,
+      "depression_level": 0.515,
+      "stress_level": 0.649,
+      "wellbeing_score": 0.416,
+      "risk_level": 0.384,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0096",
+    "timestamp": "2024-06-03T09:58:49.204584",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 10,
+      "q3_sleep": 3,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 1,
+      "q7_appetite": 6,
+      "q8_hopelessness": 10,
+      "q9_worthlessness": 10,
+      "q10_stress": 8,
+      "additional_comments": "I don't see the point in anything"
+    },
+    "labels": {
+      "anxiety_level": 0.853,
+      "depression_level": 0.935,
+      "stress_level": 0.732,
+      "wellbeing_score": 0.231,
+      "risk_level": 0.977,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0097",
+    "timestamp": "2024-06-14T09:58:49.204584",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 8,
+      "q3_sleep": 4,
+      "q4_energy": 3,
+      "q5_concentration": 4,
+      "q6_social": 5,
+      "q7_appetite": 8,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 9,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.776,
+      "depression_level": 0.532,
+      "stress_level": 0.62,
+      "wellbeing_score": 0.472,
+      "risk_level": 0.55,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0098",
+    "timestamp": "2024-05-26T09:58:49.204584",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 6,
+      "q3_sleep": 5,
+      "q4_energy": 6,
+      "q5_concentration": 4,
+      "q6_social": 7,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 4,
+      "q10_stress": 5,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.469,
+      "depression_level": 0.361,
+      "stress_level": 0.633,
+      "wellbeing_score": 0.475,
+      "risk_level": 0.413,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0099",
+    "timestamp": "2024-06-23T09:58:49.204584",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 1,
+      "q3_sleep": 10,
+      "q4_energy": 10,
+      "q5_concentration": 10,
+      "q6_social": 9,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.149,
+      "depression_level": 0,
+      "stress_level": 0.076,
+      "wellbeing_score": 0.853,
+      "risk_level": 0.07,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0100",
+    "timestamp": "2025-01-12T09:58:49.204584",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 2,
+      "q3_sleep": 8,
+      "q4_energy": 10,
+      "q5_concentration": 10,
+      "q6_social": 9,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.307,
+      "depression_level": 0.002,
+      "stress_level": 0.251,
+      "wellbeing_score": 0.941,
+      "risk_level": 0.079,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0101",
+    "timestamp": "2025-04-11T09:58:49.205544",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 3,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 5,
+      "q7_appetite": 3,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 4,
+      "q10_stress": 9,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.682,
+      "depression_level": 0.68,
+      "stress_level": 0.739,
+      "wellbeing_score": 0.26,
+      "risk_level": 0.526,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0102",
+    "timestamp": "2024-10-06T09:58:49.205544",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 2,
+      "q3_sleep": 7,
+      "q4_energy": 9,
+      "q5_concentration": 8,
+      "q6_social": 8,
+      "q7_appetite": 7,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.2,
+      "depression_level": 0.147,
+      "stress_level": 0.336,
+      "wellbeing_score": 0.762,
+      "risk_level": 0.167,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0103",
+    "timestamp": "2024-12-21T09:58:49.205544",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 6,
+      "q3_sleep": 2,
+      "q4_energy": 2,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 8,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 5,
+      "q10_stress": 9,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.721,
+      "depression_level": 0.688,
+      "stress_level": 0.67,
+      "wellbeing_score": 0.272,
+      "risk_level": 0.634,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0104",
+    "timestamp": "2024-06-18T09:58:49.205544",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 10,
+      "q5_concentration": 7,
+      "q6_social": 8,
+      "q7_appetite": 7,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.161,
+      "depression_level": 0.018,
+      "stress_level": 0.05,
+      "wellbeing_score": 0.827,
+      "risk_level": 0.175,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0105",
+    "timestamp": "2025-04-30T09:58:49.205544",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 6,
+      "q3_sleep": 5,
+      "q4_energy": 7,
+      "q5_concentration": 5,
+      "q6_social": 7,
+      "q7_appetite": 5,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.505,
+      "depression_level": 0.366,
+      "stress_level": 0.485,
+      "wellbeing_score": 0.607,
+      "risk_level": 0.386,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0106",
+    "timestamp": "2025-04-05T09:58:49.205544",
+    "responses": {
+      "q1_mood": 1,
+      "q2_anxiety": 7,
+      "q3_sleep": 2,
+      "q4_energy": 1,
+      "q5_concentration": 1,
+      "q6_social": 3,
+      "q7_appetite": 1,
+      "q8_hopelessness": 8,
+      "q9_worthlessness": 10,
+      "q10_stress": 9,
+      "additional_comments": "I can't handle this anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.784,
+      "depression_level": 0.963,
+      "stress_level": 0.962,
+      "wellbeing_score": 0.149,
+      "risk_level": 0.871,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0107",
+    "timestamp": "2025-02-27T09:58:49.205544",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 3,
+      "q3_sleep": 9,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 9,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.364,
+      "depression_level": 0.168,
+      "stress_level": 0.167,
+      "wellbeing_score": 0.796,
+      "risk_level": 0.157,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0108",
+    "timestamp": "2024-09-10T09:58:49.205544",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 8,
+      "q3_sleep": 2,
+      "q4_energy": 3,
+      "q5_concentration": 3,
+      "q6_social": 5,
+      "q7_appetite": 6,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 6,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.633,
+      "depression_level": 0.608,
+      "stress_level": 0.625,
+      "wellbeing_score": 0.276,
+      "risk_level": 0.505,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0109",
+    "timestamp": "2024-09-26T09:58:49.205544",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 2,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 2,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.265,
+      "depression_level": 0.248,
+      "stress_level": 0.314,
+      "wellbeing_score": 0.841,
+      "risk_level": 0.169,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0110",
+    "timestamp": "2024-10-28T09:58:49.205544",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 6,
+      "q3_sleep": 5,
+      "q4_energy": 4,
+      "q5_concentration": 2,
+      "q6_social": 2,
+      "q7_appetite": 2,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 4,
+      "q10_stress": 7,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.717,
+      "depression_level": 0.444,
+      "stress_level": 0.664,
+      "wellbeing_score": 0.297,
+      "risk_level": 0.378,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0111",
+    "timestamp": "2025-02-11T09:58:49.205544",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 8,
+      "q3_sleep": 3,
+      "q4_energy": 1,
+      "q5_concentration": 3,
+      "q6_social": 3,
+      "q7_appetite": 5,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 9,
+      "q10_stress": 10,
+      "additional_comments": "I can barely get through each day"
+    },
+    "labels": {
+      "anxiety_level": 0.758,
+      "depression_level": 0.824,
+      "stress_level": 0.77,
+      "wellbeing_score": 0.327,
+      "risk_level": 0.784,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0112",
+    "timestamp": "2024-06-22T09:58:49.205544",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 10,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 7,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.301,
+      "depression_level": 0.09,
+      "stress_level": 0.183,
+      "wellbeing_score": 0.834,
+      "risk_level": 0.196,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0113",
+    "timestamp": "2024-09-25T09:58:49.205544",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 4,
+      "q5_concentration": 3,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 7,
+      "q10_stress": 8,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.562,
+      "depression_level": 0.621,
+      "stress_level": 0.721,
+      "wellbeing_score": 0.418,
+      "risk_level": 0.589,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0114",
+    "timestamp": "2024-10-15T09:58:49.205544",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 6,
+      "q3_sleep": 2,
+      "q4_energy": 5,
+      "q5_concentration": 4,
+      "q6_social": 2,
+      "q7_appetite": 5,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 9,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.754,
+      "depression_level": 0.548,
+      "stress_level": 0.829,
+      "wellbeing_score": 0.311,
+      "risk_level": 0.541,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0115",
+    "timestamp": "2024-06-28T09:58:49.205544",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 1,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 10,
+      "q6_social": 8,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.197,
+      "depression_level": 0.167,
+      "stress_level": 0.109,
+      "wellbeing_score": 0.736,
+      "risk_level": 0.186,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0116",
+    "timestamp": "2024-07-19T09:58:49.205544",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 3,
+      "q5_concentration": 5,
+      "q6_social": 4,
+      "q7_appetite": 2,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "I don't feel like myself anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.546,
+      "depression_level": 0.682,
+      "stress_level": 0.608,
+      "wellbeing_score": 0.463,
+      "risk_level": 0.564,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0117",
+    "timestamp": "2024-11-03T09:58:49.205544",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 2,
+      "q3_sleep": 9,
+      "q4_energy": 10,
+      "q5_concentration": 10,
+      "q6_social": 8,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.341,
+      "depression_level": 0.15,
+      "stress_level": 0.236,
+      "wellbeing_score": 0.905,
+      "risk_level": 0.115,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0118",
+    "timestamp": "2024-08-03T09:58:49.205544",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 7,
+      "q3_sleep": 3,
+      "q4_energy": 3,
+      "q5_concentration": 2,
+      "q6_social": 5,
+      "q7_appetite": 4,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 7,
+      "q10_stress": 8,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.573,
+      "depression_level": 0.566,
+      "stress_level": 0.754,
+      "wellbeing_score": 0.346,
+      "risk_level": 0.515,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0119",
+    "timestamp": "2024-06-12T09:58:49.205544",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 2,
+      "q4_energy": 3,
+      "q5_concentration": 5,
+      "q6_social": 5,
+      "q7_appetite": 3,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 6,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.687,
+      "depression_level": 0.667,
+      "stress_level": 0.593,
+      "wellbeing_score": 0.27,
+      "risk_level": 0.453,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0120",
+    "timestamp": "2024-07-14T09:58:49.205544",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 4,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 2,
+      "q7_appetite": 7,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 5,
+      "q10_stress": 8,
+      "additional_comments": "I feel overwhelmed most of the time"
+    },
+    "labels": {
+      "anxiety_level": 0.85,
+      "depression_level": 0.659,
+      "stress_level": 0.759,
+      "wellbeing_score": 0.252,
+      "risk_level": 0.572,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0121",
+    "timestamp": "2025-02-06T09:58:49.205544",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 2,
+      "q3_sleep": 10,
+      "q4_energy": 7,
+      "q5_concentration": 8,
+      "q6_social": 10,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.079,
+      "depression_level": 0.162,
+      "stress_level": 0.038,
+      "wellbeing_score": 0.834,
+      "risk_level": 0.129,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0122",
+    "timestamp": "2024-11-03T09:58:49.205544",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 6,
+      "q3_sleep": 4,
+      "q4_energy": 3,
+      "q5_concentration": 5,
+      "q6_social": 4,
+      "q7_appetite": 5,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 7,
+      "q10_stress": 6,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.522,
+      "depression_level": 0.708,
+      "stress_level": 0.651,
+      "wellbeing_score": 0.416,
+      "risk_level": 0.51,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0123",
+    "timestamp": "2025-04-20T09:58:49.205544",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 1,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 10,
+      "q6_social": 7,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.296,
+      "depression_level": 0.085,
+      "stress_level": 0.111,
+      "wellbeing_score": 0.852,
+      "risk_level": 0.181,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0124",
+    "timestamp": "2025-03-15T09:58:49.205544",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 5,
+      "q5_concentration": 2,
+      "q6_social": 5,
+      "q7_appetite": 2,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.458,
+      "depression_level": 0.689,
+      "stress_level": 0.603,
+      "wellbeing_score": 0.4,
+      "risk_level": 0.613,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0125",
+    "timestamp": "2024-12-28T09:58:49.205544",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 8,
+      "q3_sleep": 3,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 5,
+      "q7_appetite": 4,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 4,
+      "q10_stress": 6,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.684,
+      "depression_level": 0.539,
+      "stress_level": 0.614,
+      "wellbeing_score": 0.415,
+      "risk_level": 0.518,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0126",
+    "timestamp": "2024-10-19T09:58:49.205544",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 6,
+      "q3_sleep": 6,
+      "q4_energy": 6,
+      "q5_concentration": 5,
+      "q6_social": 4,
+      "q7_appetite": 6,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I have some ups and downs"
+    },
+    "labels": {
+      "anxiety_level": 0.448,
+      "depression_level": 0.367,
+      "stress_level": 0.464,
+      "wellbeing_score": 0.629,
+      "risk_level": 0.325,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0127",
+    "timestamp": "2024-07-29T09:58:49.205544",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 6,
+      "q3_sleep": 3,
+      "q4_energy": 2,
+      "q5_concentration": 5,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 6,
+      "q10_stress": 9,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.766,
+      "depression_level": 0.749,
+      "stress_level": 0.68,
+      "wellbeing_score": 0.288,
+      "risk_level": 0.668,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0128",
+    "timestamp": "2025-02-25T09:58:49.205544",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 1,
+      "q3_sleep": 10,
+      "q4_energy": 10,
+      "q5_concentration": 7,
+      "q6_social": 8,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.139,
+      "depression_level": 0.141,
+      "stress_level": 0.194,
+      "wellbeing_score": 0.882,
+      "risk_level": 0.187,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0129",
+    "timestamp": "2024-12-27T09:58:49.205544",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 7,
+      "q5_concentration": 8,
+      "q6_social": 7,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.295,
+      "depression_level": 0.234,
+      "stress_level": 0.244,
+      "wellbeing_score": 0.714,
+      "risk_level": 0.145,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0130",
+    "timestamp": "2024-11-09T09:58:49.205544",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 8,
+      "q3_sleep": 5,
+      "q4_energy": 2,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 6,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 6,
+      "q10_stress": 9,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.813,
+      "depression_level": 0.73,
+      "stress_level": 0.67,
+      "wellbeing_score": 0.379,
+      "risk_level": 0.536,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0131",
+    "timestamp": "2024-09-14T09:58:49.205544",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 4,
+      "q3_sleep": 5,
+      "q4_energy": 6,
+      "q5_concentration": 6,
+      "q6_social": 4,
+      "q7_appetite": 4,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 2,
+      "q10_stress": 6,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.456,
+      "depression_level": 0.339,
+      "stress_level": 0.496,
+      "wellbeing_score": 0.561,
+      "risk_level": 0.259,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0132",
+    "timestamp": "2024-07-10T09:58:49.205544",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 2,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 3,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.218,
+      "depression_level": 0.193,
+      "stress_level": 0.335,
+      "wellbeing_score": 0.863,
+      "risk_level": 0.169,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0133",
+    "timestamp": "2025-04-11T09:58:49.205544",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 3,
+      "q3_sleep": 9,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 8,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.242,
+      "depression_level": 0.228,
+      "stress_level": 0.219,
+      "wellbeing_score": 0.742,
+      "risk_level": 0.17,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0134",
+    "timestamp": "2024-07-29T09:58:49.205544",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 6,
+      "q5_concentration": 6,
+      "q6_social": 6,
+      "q7_appetite": 4,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.453,
+      "depression_level": 0.302,
+      "stress_level": 0.656,
+      "wellbeing_score": 0.609,
+      "risk_level": 0.44,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0135",
+    "timestamp": "2024-06-01T09:58:49.205544",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 7,
+      "q3_sleep": 3,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 2,
+      "q7_appetite": 8,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 6,
+      "q10_stress": 8,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.854,
+      "depression_level": 0.685,
+      "stress_level": 0.64,
+      "wellbeing_score": 0.356,
+      "risk_level": 0.544,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0136",
+    "timestamp": "2024-08-09T09:58:49.205544",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 3,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 10,
+      "q6_social": 7,
+      "q7_appetite": 7,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 2,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.27,
+      "depression_level": 0.231,
+      "stress_level": 0.177,
+      "wellbeing_score": 0.823,
+      "risk_level": 0.106,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0137",
+    "timestamp": "2025-01-15T09:58:49.205544",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 8,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.331,
+      "depression_level": 0.136,
+      "stress_level": 0.173,
+      "wellbeing_score": 0.747,
+      "risk_level": 0.085,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0138",
+    "timestamp": "2025-03-10T09:58:49.205544",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 2,
+      "q3_sleep": 9,
+      "q4_energy": 9,
+      "q5_concentration": 10,
+      "q6_social": 7,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 2,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.3,
+      "depression_level": 0.104,
+      "stress_level": 0.059,
+      "wellbeing_score": 0.761,
+      "risk_level": 0.124,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0139",
+    "timestamp": "2025-03-05T09:58:49.205544",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 5,
+      "q3_sleep": 5,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 6,
+      "q7_appetite": 7,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 3,
+      "q10_stress": 6,
+      "additional_comments": "I have some ups and downs"
+    },
+    "labels": {
+      "anxiety_level": 0.584,
+      "depression_level": 0.236,
+      "stress_level": 0.486,
+      "wellbeing_score": 0.614,
+      "risk_level": 0.344,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0140",
+    "timestamp": "2025-02-17T09:58:49.206544",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 5,
+      "q3_sleep": 5,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 3,
+      "q7_appetite": 4,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 9,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.7,
+      "depression_level": 0.512,
+      "stress_level": 0.712,
+      "wellbeing_score": 0.333,
+      "risk_level": 0.482,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0141",
+    "timestamp": "2024-10-16T09:58:49.206544",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 6,
+      "q3_sleep": 7,
+      "q4_energy": 5,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 5,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 5,
+      "q10_stress": 4,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.451,
+      "depression_level": 0.388,
+      "stress_level": 0.365,
+      "wellbeing_score": 0.69,
+      "risk_level": 0.464,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0142",
+    "timestamp": "2025-01-22T09:58:49.206544",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 5,
+      "q3_sleep": 5,
+      "q4_energy": 5,
+      "q5_concentration": 4,
+      "q6_social": 4,
+      "q7_appetite": 4,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 7,
+      "q10_stress": 7,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.51,
+      "depression_level": 0.706,
+      "stress_level": 0.631,
+      "wellbeing_score": 0.453,
+      "risk_level": 0.569,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0143",
+    "timestamp": "2024-12-10T09:58:49.206544",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 7,
+      "q5_concentration": 9,
+      "q6_social": 9,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 3,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.206,
+      "depression_level": 0.21,
+      "stress_level": 0.064,
+      "wellbeing_score": 0.784,
+      "risk_level": 0.057,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0144",
+    "timestamp": "2024-07-08T09:58:49.206544",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 10,
+      "q5_concentration": 8,
+      "q6_social": 7,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.173,
+      "depression_level": 0.16,
+      "stress_level": 0.282,
+      "wellbeing_score": 0.748,
+      "risk_level": 0.197,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0145",
+    "timestamp": "2024-08-02T09:58:49.206544",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 7,
+      "q3_sleep": 5,
+      "q4_energy": 3,
+      "q5_concentration": 4,
+      "q6_social": 5,
+      "q7_appetite": 7,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "I don't feel like myself anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.676,
+      "depression_level": 0.586,
+      "stress_level": 0.533,
+      "wellbeing_score": 0.385,
+      "risk_level": 0.596,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0146",
+    "timestamp": "2024-09-02T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 1,
+      "q3_sleep": 8,
+      "q4_energy": 10,
+      "q5_concentration": 8,
+      "q6_social": 7,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.189,
+      "depression_level": 0.093,
+      "stress_level": 0.304,
+      "wellbeing_score": 0.886,
+      "risk_level": 0.196,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0147",
+    "timestamp": "2024-10-01T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 8,
+      "q5_concentration": 10,
+      "q6_social": 9,
+      "q7_appetite": 7,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.363,
+      "depression_level": 0.142,
+      "stress_level": 0.163,
+      "wellbeing_score": 0.942,
+      "risk_level": 0.144,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0148",
+    "timestamp": "2024-12-08T09:58:49.206686",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 10,
+      "q3_sleep": 3,
+      "q4_energy": 3,
+      "q5_concentration": 2,
+      "q6_social": 1,
+      "q7_appetite": 1,
+      "q8_hopelessness": 9,
+      "q9_worthlessness": 9,
+      "q10_stress": 9,
+      "additional_comments": "I can barely get through each day"
+    },
+    "labels": {
+      "anxiety_level": 0.851,
+      "depression_level": 0.767,
+      "stress_level": 0.86,
+      "wellbeing_score": 0.121,
+      "risk_level": 0.917,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0149",
+    "timestamp": "2024-06-13T09:58:49.206686",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 3,
+      "q3_sleep": 6,
+      "q4_energy": 6,
+      "q5_concentration": 6,
+      "q6_social": 7,
+      "q7_appetite": 5,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 4,
+      "q10_stress": 5,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.427,
+      "depression_level": 0.458,
+      "stress_level": 0.468,
+      "wellbeing_score": 0.553,
+      "risk_level": 0.462,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0150",
+    "timestamp": "2025-04-20T09:58:49.206686",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 8,
+      "q3_sleep": 2,
+      "q4_energy": 5,
+      "q5_concentration": 5,
+      "q6_social": 2,
+      "q7_appetite": 4,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 6,
+      "q10_stress": 8,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.878,
+      "depression_level": 0.525,
+      "stress_level": 0.643,
+      "wellbeing_score": 0.344,
+      "risk_level": 0.497,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0151",
+    "timestamp": "2024-12-12T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 4,
+      "q3_sleep": 4,
+      "q4_energy": 6,
+      "q5_concentration": 5,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 2,
+      "q10_stress": 7,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.666,
+      "depression_level": 0.333,
+      "stress_level": 0.559,
+      "wellbeing_score": 0.645,
+      "risk_level": 0.219,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0152",
+    "timestamp": "2025-02-22T09:58:49.206686",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 1,
+      "q3_sleep": 9,
+      "q4_energy": 10,
+      "q5_concentration": 7,
+      "q6_social": 9,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.075,
+      "depression_level": 0,
+      "stress_level": 0.235,
+      "wellbeing_score": 0.985,
+      "risk_level": 0.063,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0153",
+    "timestamp": "2025-02-18T09:58:49.206686",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 6,
+      "q3_sleep": 2,
+      "q4_energy": 4,
+      "q5_concentration": 5,
+      "q6_social": 4,
+      "q7_appetite": 4,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "I feel overwhelmed most of the time"
+    },
+    "labels": {
+      "anxiety_level": 0.621,
+      "depression_level": 0.656,
+      "stress_level": 0.699,
+      "wellbeing_score": 0.321,
+      "risk_level": 0.515,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0154",
+    "timestamp": "2024-11-29T09:58:49.206686",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 8,
+      "q3_sleep": 2,
+      "q4_energy": 2,
+      "q5_concentration": 5,
+      "q6_social": 5,
+      "q7_appetite": 3,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 9,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.724,
+      "depression_level": 0.662,
+      "stress_level": 0.725,
+      "wellbeing_score": 0.38,
+      "risk_level": 0.476,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0155",
+    "timestamp": "2024-11-10T09:58:49.206686",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 5,
+      "q3_sleep": 2,
+      "q4_energy": 3,
+      "q5_concentration": 5,
+      "q6_social": 2,
+      "q7_appetite": 4,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 4,
+      "q10_stress": 9,
+      "additional_comments": "I'm struggling quite a bit lately"
+    },
+    "labels": {
+      "anxiety_level": 0.637,
+      "depression_level": 0.652,
+      "stress_level": 0.689,
+      "wellbeing_score": 0.34,
+      "risk_level": 0.541,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0156",
+    "timestamp": "2025-04-15T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 6,
+      "q3_sleep": 7,
+      "q4_energy": 5,
+      "q5_concentration": 6,
+      "q6_social": 5,
+      "q7_appetite": 4,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 2,
+      "q10_stress": 6,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.58,
+      "depression_level": 0.271,
+      "stress_level": 0.391,
+      "wellbeing_score": 0.538,
+      "risk_level": 0.267,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0157",
+    "timestamp": "2025-05-12T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 4,
+      "q3_sleep": 7,
+      "q4_energy": 6,
+      "q5_concentration": 7,
+      "q6_social": 5,
+      "q7_appetite": 4,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 7,
+      "additional_comments": "I have some ups and downs"
+    },
+    "labels": {
+      "anxiety_level": 0.594,
+      "depression_level": 0.201,
+      "stress_level": 0.428,
+      "wellbeing_score": 0.763,
+      "risk_level": 0.178,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0158",
+    "timestamp": "2024-12-12T09:58:49.206686",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 5,
+      "q3_sleep": 5,
+      "q4_energy": 5,
+      "q5_concentration": 6,
+      "q6_social": 7,
+      "q7_appetite": 6,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.547,
+      "depression_level": 0.487,
+      "stress_level": 0.48,
+      "wellbeing_score": 0.561,
+      "risk_level": 0.331,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0159",
+    "timestamp": "2025-01-06T09:58:49.206686",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 8,
+      "q3_sleep": 2,
+      "q4_energy": 5,
+      "q5_concentration": 3,
+      "q6_social": 3,
+      "q7_appetite": 6,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 4,
+      "q10_stress": 8,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.78,
+      "depression_level": 0.623,
+      "stress_level": 0.799,
+      "wellbeing_score": 0.394,
+      "risk_level": 0.504,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0160",
+    "timestamp": "2024-06-10T09:58:49.206686",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 8,
+      "q6_social": 9,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.196,
+      "depression_level": 0.168,
+      "stress_level": 0.286,
+      "wellbeing_score": 0.835,
+      "risk_level": 0.165,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0161",
+    "timestamp": "2024-09-30T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 1,
+      "q3_sleep": 10,
+      "q4_energy": 9,
+      "q5_concentration": 7,
+      "q6_social": 8,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.184,
+      "depression_level": 0.282,
+      "stress_level": 0.213,
+      "wellbeing_score": 0.756,
+      "risk_level": 0.194,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0162",
+    "timestamp": "2024-11-03T09:58:49.206686",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 5,
+      "q3_sleep": 3,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 2,
+      "q7_appetite": 8,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 7,
+      "q10_stress": 7,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.633,
+      "depression_level": 0.682,
+      "stress_level": 0.779,
+      "wellbeing_score": 0.351,
+      "risk_level": 0.602,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0163",
+    "timestamp": "2024-07-05T09:58:49.206686",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 6,
+      "q5_concentration": 5,
+      "q6_social": 6,
+      "q7_appetite": 4,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.358,
+      "depression_level": 0.268,
+      "stress_level": 0.552,
+      "wellbeing_score": 0.649,
+      "risk_level": 0.323,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0164",
+    "timestamp": "2025-03-08T09:58:49.206686",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 4,
+      "q3_sleep": 5,
+      "q4_energy": 4,
+      "q5_concentration": 7,
+      "q6_social": 5,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 5,
+      "q10_stress": 4,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.512,
+      "depression_level": 0.52,
+      "stress_level": 0.317,
+      "wellbeing_score": 0.506,
+      "risk_level": 0.441,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0165",
+    "timestamp": "2024-10-25T09:58:49.206686",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 2,
+      "q3_sleep": 7,
+      "q4_energy": 10,
+      "q5_concentration": 8,
+      "q6_social": 7,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.325,
+      "depression_level": 0.05,
+      "stress_level": 0.225,
+      "wellbeing_score": 0.717,
+      "risk_level": 0.124,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0166",
+    "timestamp": "2024-07-21T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 4,
+      "q3_sleep": 6,
+      "q4_energy": 5,
+      "q5_concentration": 6,
+      "q6_social": 7,
+      "q7_appetite": 5,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.478,
+      "depression_level": 0.518,
+      "stress_level": 0.468,
+      "wellbeing_score": 0.701,
+      "risk_level": 0.481,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0167",
+    "timestamp": "2025-01-28T09:58:49.206686",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 5,
+      "q5_concentration": 5,
+      "q6_social": 3,
+      "q7_appetite": 3,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 5,
+      "q10_stress": 9,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.703,
+      "depression_level": 0.598,
+      "stress_level": 0.589,
+      "wellbeing_score": 0.412,
+      "risk_level": 0.493,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0168",
+    "timestamp": "2024-09-11T09:58:49.206686",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 3,
+      "q3_sleep": 4,
+      "q4_energy": 7,
+      "q5_concentration": 5,
+      "q6_social": 5,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 5,
+      "q10_stress": 6,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.437,
+      "depression_level": 0.476,
+      "stress_level": 0.589,
+      "wellbeing_score": 0.493,
+      "risk_level": 0.474,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0169",
+    "timestamp": "2024-09-12T09:58:49.206686",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 4,
+      "q3_sleep": 6,
+      "q4_energy": 6,
+      "q5_concentration": 6,
+      "q6_social": 5,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 3,
+      "q10_stress": 6,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.464,
+      "depression_level": 0.498,
+      "stress_level": 0.516,
+      "wellbeing_score": 0.573,
+      "risk_level": 0.329,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0170",
+    "timestamp": "2024-11-19T09:58:49.206686",
+    "responses": {
+      "q1_mood": 2,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 4,
+      "q5_concentration": 3,
+      "q6_social": 2,
+      "q7_appetite": 8,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 7,
+      "q10_stress": 8,
+      "additional_comments": "I feel overwhelmed most of the time"
+    },
+    "labels": {
+      "anxiety_level": 0.659,
+      "depression_level": 0.706,
+      "stress_level": 0.686,
+      "wellbeing_score": 0.238,
+      "risk_level": 0.682,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0171",
+    "timestamp": "2024-06-26T09:58:49.206686",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 3,
+      "q3_sleep": 6,
+      "q4_energy": 4,
+      "q5_concentration": 7,
+      "q6_social": 5,
+      "q7_appetite": 5,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 3,
+      "q10_stress": 6,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.473,
+      "depression_level": 0.39,
+      "stress_level": 0.342,
+      "wellbeing_score": 0.595,
+      "risk_level": 0.393,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0172",
+    "timestamp": "2024-11-07T09:58:49.206686",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 1,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 8,
+      "q6_social": 7,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.297,
+      "depression_level": 0.215,
+      "stress_level": 0.301,
+      "wellbeing_score": 0.694,
+      "risk_level": 0.102,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0173",
+    "timestamp": "2024-06-13T09:58:49.206686",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 2,
+      "q3_sleep": 10,
+      "q4_energy": 8,
+      "q5_concentration": 10,
+      "q6_social": 10,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.132,
+      "depression_level": 0.166,
+      "stress_level": 0.159,
+      "wellbeing_score": 0.993,
+      "risk_level": 0.199,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0174",
+    "timestamp": "2025-01-27T09:58:49.206686",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 3,
+      "q3_sleep": 7,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 10,
+      "q7_appetite": 7,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 1,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.189,
+      "depression_level": 0.263,
+      "stress_level": 0.298,
+      "wellbeing_score": 0.73,
+      "risk_level": 0.122,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0175",
+    "timestamp": "2024-12-15T09:58:49.206686",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 4,
+      "q3_sleep": 4,
+      "q4_energy": 6,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 7,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 4,
+      "q10_stress": 7,
+      "additional_comments": "I have some ups and downs"
+    },
+    "labels": {
+      "anxiety_level": 0.436,
+      "depression_level": 0.518,
+      "stress_level": 0.437,
+      "wellbeing_score": 0.544,
+      "risk_level": 0.33,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0176",
+    "timestamp": "2025-03-12T09:58:49.206686",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 3,
+      "q3_sleep": 9,
+      "q4_energy": 10,
+      "q5_concentration": 8,
+      "q6_social": 9,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 1,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.135,
+      "depression_level": 0.217,
+      "stress_level": 0.053,
+      "wellbeing_score": 0.841,
+      "risk_level": 0.216,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0177",
+    "timestamp": "2024-12-30T09:58:49.206686",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 6,
+      "q3_sleep": 4,
+      "q4_energy": 5,
+      "q5_concentration": 4,
+      "q6_social": 7,
+      "q7_appetite": 5,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 4,
+      "q10_stress": 4,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.483,
+      "depression_level": 0.476,
+      "stress_level": 0.564,
+      "wellbeing_score": 0.602,
+      "risk_level": 0.423,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0178",
+    "timestamp": "2025-05-07T09:58:49.206686",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 1,
+      "q3_sleep": 10,
+      "q4_energy": 9,
+      "q5_concentration": 9,
+      "q6_social": 10,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.042,
+      "depression_level": 0.204,
+      "stress_level": 0.028,
+      "wellbeing_score": 0.887,
+      "risk_level": 0.133,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0179",
+    "timestamp": "2024-11-02T09:58:49.206686",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 4,
+      "q3_sleep": 4,
+      "q4_energy": 7,
+      "q5_concentration": 6,
+      "q6_social": 5,
+      "q7_appetite": 7,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 5,
+      "q10_stress": 5,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.439,
+      "depression_level": 0.451,
+      "stress_level": 0.497,
+      "wellbeing_score": 0.468,
+      "risk_level": 0.542,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0180",
+    "timestamp": "2025-03-02T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 9,
+      "q7_appetite": 10,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.23,
+      "depression_level": 0.196,
+      "stress_level": 0.224,
+      "wellbeing_score": 0.839,
+      "risk_level": 0.124,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0181",
+    "timestamp": "2025-04-04T09:58:49.206686",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 8,
+      "q3_sleep": 4,
+      "q4_energy": 2,
+      "q5_concentration": 3,
+      "q6_social": 4,
+      "q7_appetite": 7,
+      "q8_hopelessness": 4,
+      "q9_worthlessness": 7,
+      "q10_stress": 8,
+      "additional_comments": "I don't feel like myself anymore"
+    },
+    "labels": {
+      "anxiety_level": 0.713,
+      "depression_level": 0.58,
+      "stress_level": 0.738,
+      "wellbeing_score": 0.35,
+      "risk_level": 0.518,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0182",
+    "timestamp": "2024-08-28T09:58:49.206686",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 1,
+      "q3_sleep": 8,
+      "q4_energy": 7,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 3,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.301,
+      "depression_level": 0.061,
+      "stress_level": 0.248,
+      "wellbeing_score": 0.881,
+      "risk_level": 0.086,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0183",
+    "timestamp": "2024-06-14T09:58:49.206686",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 1,
+      "q3_sleep": 7,
+      "q4_energy": 9,
+      "q5_concentration": 10,
+      "q6_social": 7,
+      "q7_appetite": 8,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel pretty good overall"
+    },
+    "labels": {
+      "anxiety_level": 0.161,
+      "depression_level": 0.237,
+      "stress_level": 0.161,
+      "wellbeing_score": 0.732,
+      "risk_level": 0.187,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0184",
+    "timestamp": "2024-08-13T09:58:49.206686",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 5,
+      "q3_sleep": 2,
+      "q4_energy": 3,
+      "q5_concentration": 4,
+      "q6_social": 2,
+      "q7_appetite": 3,
+      "q8_hopelessness": 7,
+      "q9_worthlessness": 6,
+      "q10_stress": 8,
+      "additional_comments": "Everything feels like a big effort"
+    },
+    "labels": {
+      "anxiety_level": 0.764,
+      "depression_level": 0.703,
+      "stress_level": 0.653,
+      "wellbeing_score": 0.207,
+      "risk_level": 0.64,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0185",
+    "timestamp": "2025-04-26T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 2,
+      "q3_sleep": 9,
+      "q4_energy": 8,
+      "q5_concentration": 9,
+      "q6_social": 9,
+      "q7_appetite": 7,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 4,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.202,
+      "depression_level": 0.113,
+      "stress_level": 0.153,
+      "wellbeing_score": 0.751,
+      "risk_level": 0.116,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0186",
+    "timestamp": "2024-10-14T09:58:49.206686",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 5,
+      "q3_sleep": 5,
+      "q4_energy": 7,
+      "q5_concentration": 4,
+      "q6_social": 6,
+      "q7_appetite": 6,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.567,
+      "depression_level": 0.349,
+      "stress_level": 0.576,
+      "wellbeing_score": 0.61,
+      "risk_level": 0.333,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0187",
+    "timestamp": "2024-07-23T09:58:49.206686",
+    "responses": {
+      "q1_mood": 3,
+      "q2_anxiety": 10,
+      "q3_sleep": 3,
+      "q4_energy": 3,
+      "q5_concentration": 1,
+      "q6_social": 2,
+      "q7_appetite": 1,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 7,
+      "q10_stress": 9,
+      "additional_comments": "I can barely get through each day"
+    },
+    "labels": {
+      "anxiety_level": 0.873,
+      "depression_level": 0.583,
+      "stress_level": 0.737,
+      "wellbeing_score": 0.214,
+      "risk_level": 0.684,
+      "mental_state_category": "severe_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0188",
+    "timestamp": "2025-01-29T09:58:49.207578",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 2,
+      "q3_sleep": 10,
+      "q4_energy": 7,
+      "q5_concentration": 10,
+      "q6_social": 9,
+      "q7_appetite": 9,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 2,
+      "q10_stress": 1,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.18,
+      "depression_level": 0.259,
+      "stress_level": 0.037,
+      "wellbeing_score": 0.833,
+      "risk_level": 0.164,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0189",
+    "timestamp": "2025-02-13T09:58:49.207578",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 8,
+      "q3_sleep": 2,
+      "q4_energy": 2,
+      "q5_concentration": 5,
+      "q6_social": 2,
+      "q7_appetite": 8,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 6,
+      "q10_stress": 6,
+      "additional_comments": "It's been really hard to cope"
+    },
+    "labels": {
+      "anxiety_level": 0.719,
+      "depression_level": 0.589,
+      "stress_level": 0.692,
+      "wellbeing_score": 0.393,
+      "risk_level": 0.557,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0190",
+    "timestamp": "2024-08-17T09:58:49.207578",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 3,
+      "q3_sleep": 5,
+      "q4_energy": 6,
+      "q5_concentration": 7,
+      "q6_social": 7,
+      "q7_appetite": 5,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 3,
+      "q10_stress": 6,
+      "additional_comments": "Sometimes I feel a bit overwhelmed"
+    },
+    "labels": {
+      "anxiety_level": 0.396,
+      "depression_level": 0.447,
+      "stress_level": 0.379,
+      "wellbeing_score": 0.545,
+      "risk_level": 0.288,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0191",
+    "timestamp": "2024-09-20T09:58:49.207578",
+    "responses": {
+      "q1_mood": 6,
+      "q2_anxiety": 5,
+      "q3_sleep": 7,
+      "q4_energy": 7,
+      "q5_concentration": 6,
+      "q6_social": 6,
+      "q7_appetite": 4,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 3,
+      "q10_stress": 5,
+      "additional_comments": "Some days are harder than others"
+    },
+    "labels": {
+      "anxiety_level": 0.369,
+      "depression_level": 0.379,
+      "stress_level": 0.48,
+      "wellbeing_score": 0.621,
+      "risk_level": 0.253,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0192",
+    "timestamp": "2024-06-10T09:58:49.207578",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 2,
+      "q3_sleep": 9,
+      "q4_energy": 9,
+      "q5_concentration": 10,
+      "q6_social": 8,
+      "q7_appetite": 7,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.222,
+      "depression_level": 0.082,
+      "stress_level": 0.193,
+      "wellbeing_score": 0.87,
+      "risk_level": 0.098,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0193",
+    "timestamp": "2025-01-01T09:58:49.207578",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 2,
+      "q3_sleep": 7,
+      "q4_energy": 7,
+      "q5_concentration": 9,
+      "q6_social": 7,
+      "q7_appetite": 7,
+      "q8_hopelessness": 2,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "Things are going well for me"
+    },
+    "labels": {
+      "anxiety_level": 0.182,
+      "depression_level": 0.123,
+      "stress_level": 0.292,
+      "wellbeing_score": 0.736,
+      "risk_level": 0.105,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0194",
+    "timestamp": "2024-12-05T09:58:49.207578",
+    "responses": {
+      "q1_mood": 10,
+      "q2_anxiety": 1,
+      "q3_sleep": 8,
+      "q4_energy": 10,
+      "q5_concentration": 8,
+      "q6_social": 7,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.261,
+      "depression_level": 0,
+      "stress_level": 0.165,
+      "wellbeing_score": 0.908,
+      "risk_level": 0.145,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0195",
+    "timestamp": "2024-12-13T09:58:49.207578",
+    "responses": {
+      "q1_mood": 9,
+      "q2_anxiety": 3,
+      "q3_sleep": 10,
+      "q4_energy": 7,
+      "q5_concentration": 9,
+      "q6_social": 8,
+      "q7_appetite": 10,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 2,
+      "additional_comments": "Life feels manageable right now"
+    },
+    "labels": {
+      "anxiety_level": 0.243,
+      "depression_level": 0.165,
+      "stress_level": 0.166,
+      "wellbeing_score": 0.912,
+      "risk_level": 0.052,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0196",
+    "timestamp": "2024-06-22T09:58:49.207578",
+    "responses": {
+      "q1_mood": 5,
+      "q2_anxiety": 5,
+      "q3_sleep": 4,
+      "q4_energy": 6,
+      "q5_concentration": 4,
+      "q6_social": 6,
+      "q7_appetite": 4,
+      "q8_hopelessness": 3,
+      "q9_worthlessness": 5,
+      "q10_stress": 7,
+      "additional_comments": "I feel okay most days"
+    },
+    "labels": {
+      "anxiety_level": 0.573,
+      "depression_level": 0.447,
+      "stress_level": 0.641,
+      "wellbeing_score": 0.45,
+      "risk_level": 0.391,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0197",
+    "timestamp": "2025-03-12T09:58:49.207578",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 3,
+      "q3_sleep": 5,
+      "q4_energy": 5,
+      "q5_concentration": 5,
+      "q6_social": 5,
+      "q7_appetite": 5,
+      "q8_hopelessness": 5,
+      "q9_worthlessness": 2,
+      "q10_stress": 7,
+      "additional_comments": "I'm managing but it's not always easy"
+    },
+    "labels": {
+      "anxiety_level": 0.5,
+      "depression_level": 0.485,
+      "stress_level": 0.658,
+      "wellbeing_score": 0.391,
+      "risk_level": 0.386,
+      "mental_state_category": "mild_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0198",
+    "timestamp": "2025-02-14T09:58:49.207578",
+    "responses": {
+      "q1_mood": 4,
+      "q2_anxiety": 7,
+      "q3_sleep": 3,
+      "q4_energy": 3,
+      "q5_concentration": 5,
+      "q6_social": 2,
+      "q7_appetite": 6,
+      "q8_hopelessness": 6,
+      "q9_worthlessness": 5,
+      "q10_stress": 9,
+      "additional_comments": "I feel overwhelmed most of the time"
+    },
+    "labels": {
+      "anxiety_level": 0.894,
+      "depression_level": 0.595,
+      "stress_level": 0.635,
+      "wellbeing_score": 0.429,
+      "risk_level": 0.507,
+      "mental_state_category": "moderate_symptoms"
+    }
+  },
+  {
+    "user_id": "user_0199",
+    "timestamp": "2025-01-01T09:58:49.207578",
+    "responses": {
+      "q1_mood": 7,
+      "q2_anxiety": 2,
+      "q3_sleep": 10,
+      "q4_energy": 9,
+      "q5_concentration": 9,
+      "q6_social": 8,
+      "q7_appetite": 8,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 1,
+      "q10_stress": 1,
+      "additional_comments": "I feel balanced and content"
+    },
+    "labels": {
+      "anxiety_level": 0.172,
+      "depression_level": 0.168,
+      "stress_level": 0.001,
+      "wellbeing_score": 0.912,
+      "risk_level": 0.08,
+      "mental_state_category": "healthy"
+    }
+  },
+  {
+    "user_id": "user_0200",
+    "timestamp": "2024-09-01T09:58:49.207578",
+    "responses": {
+      "q1_mood": 8,
+      "q2_anxiety": 1,
+      "q3_sleep": 9,
+      "q4_energy": 7,
+      "q5_concentration": 10,
+      "q6_social": 7,
+      "q7_appetite": 9,
+      "q8_hopelessness": 1,
+      "q9_worthlessness": 2,
+      "q10_stress": 4,
+      "additional_comments": "I'm generally positive about life"
+    },
+    "labels": {
+      "anxiety_level": 0.188,
+      "depression_level": 0.137,
+      "stress_level": 0.071,
+      "wellbeing_score": 0.892,
+      "risk_level": 0.147,
+      "mental_state_category": "healthy"
+    }
+  }
+]

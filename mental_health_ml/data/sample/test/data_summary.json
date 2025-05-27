@@ -1,0 +1,103 @@
+{
+  "total_samples": 200,
+  "mental_state_distribution": {
+    "healthy": 76,
+    "mild_symptoms": 55,
+    "moderate_symptoms": 54,
+    "severe_symptoms": 15
+  },
+  "label_statistics": {
+    "anxiety_level": {
+      "mean": 0.46813000000000005,
+      "std": 0.23864003947831355,
+      "min": 0.022,
+      "max": 0.961
+    },
+    "depression_level": {
+      "mean": 0.397425,
+      "std": 0.23857842041652091,
+      "min": 0.0,
+      "max": 0.963
+    },
+    "stress_level": {
+      "mean": 0.44355999999999995,
+      "std": 0.24273060609589056,
+      "min": 0.0,
+      "max": 0.962
+    },
+    "wellbeing_score": {
+      "mean": 0.585855,
+      "std": 0.23611002455098629,
+      "min": 0.109,
+      "max": 1.0
+    },
+    "risk_level": {
+      "mean": 0.35857999999999995,
+      "std": 0.21600910459129188,
+      "min": 0.052,
+      "max": 1.0
+    }
+  },
+  "response_statistics": {
+    "response_q1_mood": {
+      "mean": 5.765,
+      "std": 2.648556068168306,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q2_anxiety": {
+      "mean": 4.52,
+      "std": 2.4473552538798833,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q3_sleep": {
+      "mean": 5.92,
+      "std": 2.6187572333525266,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q4_energy": {
+      "mean": 5.78,
+      "std": 2.6126095466441366,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q5_concentration": {
+      "mean": 5.96,
+      "std": 2.4837967370853393,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q6_social": {
+      "mean": 5.76,
+      "std": 2.431452199611371,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q7_appetite": {
+      "mean": 6.555,
+      "std": 2.305112299556757,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q8_hopelessness": {
+      "mean": 3.645,
+      "std": 2.2324637673122063,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q9_worthlessness": {
+      "mean": 3.595,
+      "std": 2.286287504397428,
+      "min": 1.0,
+      "max": 10.0
+    },
+    "response_q10_stress": {
+      "mean": 5.22,
+      "std": 2.595241102847585,
+      "min": 1.0,
+      "max": 10.0
+    }
+  }
+}
